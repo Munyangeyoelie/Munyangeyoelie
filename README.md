@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django and Ruby**
 
-- 👨‍💻 All of my projects are available at [soon](soon)
+- 👨‍💻 All of my projects are available at [soon](https://github.com/Munyangeyoelie/E-learning)
 
 - 💬 Ask me about **Nextjs, React and node**
 
