@@ -19,7 +19,7 @@
 <a href="https://codesandbox.com/munyangeyoelie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="munyangeyoelie" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/munyangeyo.elie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/munyangeyo.elie/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ngeyoelie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ngeyoelie/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucc5pgy7wgxkd5daisuntiew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucc5pgy7wgxkd5daisuntiew" height="30" width="40" /></a>
+<a href=https://www.youtube.com/@frankelie7096/streams target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucc5pgy7wgxkd5daisuntiew" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
