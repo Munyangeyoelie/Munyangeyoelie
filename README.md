@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [E-learning web and APP and PICARE](https://github.com/Munyangeyoelie/PICARE.git)
 
-- 🌱 I’m currently learning **Django and Ruby**
+- 🌱 I’m currently learning **Javascript and Ruby**
 
 - 👨‍💻 All of my projects are available at [on my portifolio](https://munyangeyoelie-com.vercel.app/)
 
