@@ -3,7 +3,6 @@
 
 
 
-
 - 🔭 I’m currently working on [E-learning web and APP and PICARE](https://github.com/Munyangeyoelie/PICARE.git)
 
 - 🌱 I’m currently learning **Javascript and Ruby**
