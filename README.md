@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning **Javascript and Ruby**  
 
-- 👨‍💻 All of my projects are available at [on my portifolio](https://munyangeyoelie-com.vercel.app/)
+- 👨‍💻 All of my projects are available at [on my portifolio](https://munyangeyoelie-com.vercel.app/) 
  
 - 💬 Ask me about **Nextjs, React and node**
  
