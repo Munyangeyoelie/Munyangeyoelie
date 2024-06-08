@@ -10,7 +10,7 @@
     
 - 📫 How to reach me **eliemunyafrank@gmail.com**
 
-- 📄 Know about my experiences 4 years of experience
+- 📄 Know about my experiences 5 years of experience
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
