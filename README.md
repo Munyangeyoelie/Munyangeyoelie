@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Munyangeyo Elie</h1> 
 <h3 align="center">A passionate Fullstack developer from Rwanda I also work remotely and soon Relocating</h3> 
-- 🔭 I’m currently working on [Best softwares in the whole world under softhubgroup](https://https://softhubgroups.com/)
+- 🔭 I’m currently working on [Best softwares in the whole world under softhubgroup](https://softhubgroups.com/)
         
 - 🌱 I’m currently learning **Machine Learning and artificial intelligence**         
         
