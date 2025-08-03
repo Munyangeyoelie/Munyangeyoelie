@@ -10,10 +10,10 @@
      
 - 📫 How to reach me **eliemunyafrank@gmail.com**
  
-- 📄 Know about my experiences 5 years of experience
+- 📄 More than 8 years of experience
 
 # 💫 About Me:
-I am working on mobile development and CRM
+I am working on mobile development and Finance Software, Logistic softwares and Industrial software 
 
 
 ## 🌐 Socials:
